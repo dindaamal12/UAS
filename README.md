@@ -65,7 +65,7 @@ Kedua untuk menghasilkan modul Ubah Data kamu perlu memasukan '2' dan menghasilk
 Ketiga untuk menghasilkan modul Hapus Data kamu perlu memasukan '4' dan menghasilkan output sebagai berikut :
 
 ![](img/hapusdata.PNG)
-
+ 
 Untuk mencari data itu sendiri kalian hanya perlu memasukan inisial dari modul tersebut. Misalkan kalian ingin mencari moodul untuk Menghapus Data, maka kamu hanya perlu memasukan angka '4' pada kolom yang tersedia.
 
 ## SOAL 2 (View_Nilai)
@@ -77,6 +77,7 @@ Untuk menjawab soal nomer 2, kalian hanya perlu mengetikan huruf "5" pada kolom 
 ## SOAL 3 (Input_Nilai)
 
 Pada soal ke-3 ini, jika kalian ingin menginput suatu data yaitu sama halnya seperti kalian memasukan huruf "1" untuk menambahkan suatu data. Dan hasil output yang dihasilkan pun sama yaitu sebagai berikut.
+
 
 ![](img/inputdata.PNG)
 
